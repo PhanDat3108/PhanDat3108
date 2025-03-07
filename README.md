@@ -4,7 +4,7 @@
 
 ### 🚀 About Me  
 - Enthusiastic about programming and problem-solving  
-- Exploring Python, C/C++, and software development  
+- Exploring Python, JS, and software development  
 - Passionate about building practical applications and real-world solutions  
 - Always eager to learn and improve my coding skills  
 
